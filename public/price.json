@@ -1,0 +1,24 @@
+[  { "name": "Apples", 
+     "price": 10,
+     "id": 1,    
+     "features": ["Organic", "Local", "Pesticide-Free"]
+  },
+  {
+    "name": "Coffee",
+    "price": 20,
+    "id": 2,
+    "features": ["Fair Trade", "Organic", "Shade-Grown"]
+  },
+  {
+    "name": "Jackfruit",
+    "price": 30,
+    "id": 3,
+    "features": ["Recycled", "Eco-Friendly", "USA-Made"]
+  },
+  {
+    "name": "Pinaple",
+    "price": 40,
+    "id": 4,
+    "features": ["Recycled", "Eco-Friendly", "USA-Made"]
+  }
+]
